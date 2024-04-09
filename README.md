@@ -1,8 +1,4 @@
-backlog
-in progress
-testing
-derived
-done
+
 - 👋 Hi, I’m @Neematoto8
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
